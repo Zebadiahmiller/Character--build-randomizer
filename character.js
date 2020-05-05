@@ -4,7 +4,7 @@
 
 
 
-
+function randomizer(){
 
 const sex = ["Male", "Female"];
 const age = ["Adolescent", "Adult", "Elder"];
@@ -37,3 +37,5 @@ document.getElementById("hair-color").innerHTML = " " + selectedHairColor;
 document.getElementById("hair-texture").innerHTML = " " + selectedHairTexture;
 document.getElementById("marking1").innerHTML = " " + selectedMarking1;
 document.getElementById("marking2").innerHTML = " " + selectedMarking2;
+
+};
