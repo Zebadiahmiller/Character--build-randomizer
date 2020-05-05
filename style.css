@@ -1,9 +1,12 @@
 .char-info {
     text-align: center;
+    font-weight: bold;
 };
+
 
 #sex {
     display: inline-block;
+    
 };
 
 #age  {

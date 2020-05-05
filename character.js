@@ -29,13 +29,22 @@ const selectedMarking2 = marking2[Math.floor(Math.random() * marking2.length)];
 
 
 document.getElementById("sex").innerHTML = " " + selectedSex;
+document.getElementById("sex").style.fontWeight = "normal";
 document.getElementById("age").innerHTML = " " + selectedAge;
+document.getElementById("age").style.fontWeight = "normal";
 document.getElementById("height").innerHTML = " " + selectedHeight;
+document.getElementById("height").style.fontWeight = "normal";
 document.getElementById("skin").innerHTML = " " + selectedSkin;
+document.getElementById("skin").style.fontWeight = "normal";
 document.getElementById("pelt").innerHTML = " " + selectedPelt;
+document.getElementById("pelt").style.fontWeight = "normal";
 document.getElementById("hair-color").innerHTML = " " + selectedHairColor;
+document.getElementById("hair-color").style.fontWeight = "normal";
 document.getElementById("hair-texture").innerHTML = " " + selectedHairTexture;
+document.getElementById("hair-texture").style.fontWeight = "normal";
 document.getElementById("marking1").innerHTML = " " + selectedMarking1;
+document.getElementById("marking1").style.fontWeight = "normal";
 document.getElementById("marking2").innerHTML = " " + selectedMarking2;
+document.getElementById("marking2").style.fontWeight = "normal";
 
 };
