@@ -1,0 +1,39 @@
+.char-info {
+    text-align: center;
+};
+
+#sex {
+    display: inline-block;
+};
+
+#age  {
+    display: inline-block;
+};
+
+#height {
+    display: inline-block;
+};
+
+#sking {
+    display: inline-block;
+};
+
+#pelt {
+    display: inline-block;
+};
+
+#hair-color {
+    display: inline-block;
+};
+
+#hair-texture {
+    display: inline-block;
+};
+
+#marking1 {
+    display: inline-block;
+};
+
+#marking2 {
+    display: inline-block;
+};
