@@ -14,7 +14,7 @@ const pelt = ["White","Black","Medium Brown","Dark Brown","Light Chestnut","Dark
 const hairColor = ["Black","Dark Brown","Light Brown","Medium Brown","Reddish Brown","Platinum","Blonde","Auburn","Ginger","Golden Blonde","Strawberry Blonde","Silver","Grey","White"];
 const hairTexture = ["Straight","Wavy","Curly"];
 const marking1 = ["No white markings","Paint Tobino","Paint Overo","Paint Splash","Leopard Appaloosa","Blanket Appaloosa","Few spot Appaloosa","Roan","4 White socks (anywhere up to the knees)","3 White socks (anywhere up to the knees)","2 White socks (anywhere up to the knees)","1 White socks (anywhere up to the knees)"];
-const marking2 = ["No other markings","Darker legs in the same color as their coat","Lighter legs in the same color as their coat","Black legs","Dun stripes in the same color as their coat but darker","Dun stripes in black"];
+const marking2 = ["No other markings","Darker legs","Lighter legs","Dun markings"];
 
 
 const selectedSex = sex[Math.floor(Math.random() * sex.length)];
